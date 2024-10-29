@@ -4,6 +4,8 @@ Roll a Do is a quick and easy to use to-do list app that was made in a single da
 
 ![Project Screenshot](https://github.com/Ege-Okyay/roll-a-do/assets/83663983/405dd01c-cbce-4146-bf97-7d8712bd0fbe)
 
+[Live Demo](https://roll-a-do.vercel.app)
+
 ## Project Structure
 
 - `components`: Contains React components like `Navbar`, `Footer`, `Dice`, and `Modal`.
